@@ -19,7 +19,7 @@ And example of how to use the validator goes like this:
     });
     
     var getUserValidationSchema = {
-    	"query": { type: String, required: true }
+    	"filter": { type: String, required: true }
     };
     
     app.get("/users", validate.query(getUserValidationSchema), function(req, res) {
