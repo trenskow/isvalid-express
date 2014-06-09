@@ -24,7 +24,7 @@ And example of how to use the validator goes like this:
     
     app.get("/users", validate.query(getUserValidationSchema), function(req, res) {
     	
-    	// req.query is now validated and no futher validation needs to take place.
+    	// req.query is now validated and no further validation needs to take place.
     	// If query could not be validated an error was sent to the express error handler.
     	
     });
