@@ -1,8 +1,8 @@
 # isvalid-express.js
 
-**isvalid-express.js** is a validation middleware for express using isvalid.js.
+**isvalid-express.js** is a validation middleware for express using the [isvalid](https://github.com/trenskow/isvalid.js) library.
 
-And example of how to use the validator goes like this:
+Below is an example on how to use the validator.
 
     var validate = require('isvalid-express');
     
@@ -31,4 +31,4 @@ And example of how to use the validator goes like this:
 
 ## Formatting Schemas
 
-To see how the validator works and how to format schemas - see the [isvalid.js](https://github.com/trenskow/isvalid.js) project.
+To understand how the validator works and how to format schemas - please see the [isvalid](https://github.com/trenskow/isvalid.js) project.
