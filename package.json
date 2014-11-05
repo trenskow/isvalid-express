@@ -9,7 +9,7 @@
 		"validation"
 	],
 	"dependencies": {
-		"isvalid": ">= 0.0.4"
+		"isvalid": ">= 0.1.5"
 	},
 	"repository": {
 		"type": "git",
