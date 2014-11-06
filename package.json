@@ -1,6 +1,6 @@
 {
 	"name": "isvalid-express",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"description": "Express middleware for validating bodies and queries with isvalid.js.",
 	"main": "./index.js",
 	"keywords": [
@@ -9,7 +9,7 @@
 		"validation"
 	],
 	"dependencies": {
-		"isvalid": ">= 0.1.5"
+		"isvalid": ">= 0.2.1"
 	},
 	"repository": {
 		"type": "git",
