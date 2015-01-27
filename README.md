@@ -1,5 +1,5 @@
 # isvalid-express.js
-[![npm version](https://badge.fury.io/js/isvalid-express.svg)](http://badge.fury.io/js/isvalid-express)
+[![npm version](https://badge.fury.io/js/isvalid-express.svg)](httphttps://www.npmjs.com/package/isvalid-express)
 -
 
 **isvalid-express.js** is a validation middleware for express using the [isvalid](https://github.com/trenskow/isvalid.js) library.
