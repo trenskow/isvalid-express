@@ -1,6 +1,6 @@
 {
 	"name": "isvalid-express",
-	"version": "0.0.8",
+	"version": "0.0.9",
 	"description": "Express middleware for validating bodies and queries with isvalid.js.",
 	"main": "./index.js",
 	"keywords": [
